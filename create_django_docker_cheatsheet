@@ -6,3 +6,7 @@
 4. Create Dockerfile in projectroot
 5. Create requirements.txt in projectroot
 6. Create docker-compose.yml
+7. Enable Travis
+8. Create Travis.yml
+9. Add flake8 to requirements
+    - add flake8 config in same folder as manage.python
