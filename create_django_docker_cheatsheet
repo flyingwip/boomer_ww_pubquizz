@@ -1,0 +1,8 @@
+1. Create repo on Github (public if free use of Travis)
+ - .gitignore = python
+ - license = mit
+2. Clone repo on your computer. cd into project
+3. Open project in Visual Studio ( $ code .) 
+4. Create Dockerfile in projectroot
+5. Create requirements.txt in projectroot
+6. Create docker-compose.yml
