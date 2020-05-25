@@ -10,3 +10,4 @@
 8. Create Travis.yml
 9. Add flake8 to requirements
     - add flake8 config in same folder as manage.python
+    
