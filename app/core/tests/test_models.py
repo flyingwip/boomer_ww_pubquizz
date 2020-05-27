@@ -1,5 +1,6 @@
 from django.test import TestCase
 from django.contrib.auth import get_user_model
+from core.models import Quizz, Question
 
 
 class ModelTests(TestCase):
@@ -41,3 +42,23 @@ class ModelTests(TestCase):
 
         self.assertTrue(user.is_superuser)
         self.assertTrue(user.is_staff)
+
+    def test_quizz_str(self):
+        """ Test quizz string representation """
+        quizz_title = "Boomer WW II Quizz"
+        quizz = Quizz.objects.create(title=quizz_title)
+
+        self.assertEqual(str(quizz), quizz_title)
+
+    def test_question_str(self):
+        """ Test question string representation """
+
+        # first create a quizz
+        # quizz = Quizz.objects.create(title="Boomer WW II Quizz")
+
+        question_text = """Who was in charge of the attempt to assassinate
+                Adolf Hitler on 20 july 1944"""
+
+        question = Question.objects.create(text=question_text)
+
+        self.assertEqual(str(question), question_text)

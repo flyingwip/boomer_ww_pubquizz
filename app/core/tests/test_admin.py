@@ -2,6 +2,19 @@ from django.test import TestCase, Client
 from django.contrib.auth import get_user_model
 from django.urls import reverse
 
+from core.models import Quizz
+
+
+def sample_quizz(**params):
+    """Create and return a sample quizz"""
+    defaults = {
+        'title': 'Boomer WW II Quizz',
+        'description': 'Are You A World War II Whiz?'
+    }
+    defaults.update(params)
+
+    return Quizz.objects.create(**defaults)
+
 
 class AdminSiteTests(TestCase):
 
@@ -39,3 +52,13 @@ class AdminSiteTests(TestCase):
         res = self.client.get(url)
 
         self.assertEqual(res.status_code, 200)
+
+    def test_quizz_listed(self):
+        """Test that quizzes are listed on the user page"""
+        test_quizz = str(sample_quizz())
+        url = reverse('admin:core_quizz_changelist')
+        res = self.client.get(url)
+
+        # print(res.data)
+        self.assertContains(res, test_quizz)
+        # self.assertContains(res, self.user.email)
