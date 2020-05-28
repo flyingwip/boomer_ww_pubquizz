@@ -1,0 +1,353 @@
+{
+  "questions": [
+    {
+      "text": {
+        "1": "'weinig kroegen, geen bioscopen.\nAlleen een telefooncel, die zullen wij slopen'",
+        "2": "Uit welk Amsterdams lied zijn deze tekstregels afkomstig?"
+      },
+      "answers": [
+        "Ik voel me zo verdomd alleen",
+        "Ik verveel me zo (in Amsterdam-Noord)",
+        "Allemansplein",
+        "Ik leef mijn eigen leven"
+      ],
+      "correct": {
+        "answers": [1],
+        "explanation": "‘Ze noemen mij een vandalist / Maar als een ieder toch eens wist / Wat het is om in Noord te wonen / Het kost veel tijd om de stad in te komen / Weinig kroegen, geen bioscopen / Alleen een telefooncel, die zullen wij slopen’Dit nummer van Drukwerk uit 1884 was geïnspireerd op het nummer ‘A Hard Rain’s a-Gonna Fall’ van Bob Dylan A is een nummer van Danny de Munk, C van De Dijk. D van André Hazes"
+      }
+    },
+    {
+      "text": "Welke wethouder maakte zich sterk voor een effectief volkshuisvestingsbeleid met de stelling: ‘In gelul kun je niet wonen’?",
+      "answers": ["F.M. Wibaut", "Leen Seegers", "Jan Schaefer", "Duco Stadig"],
+      "correct": {
+        "answers": [2],
+        "explanation": "Jan Schaefer (1940-1994) een voormalig warme bakker uit De Pijp, was PvdA-wethouder Volkshuisvesting van 1978 tot 1986. Ervoor en erna zat hij voor de partij in de Tweede Kamer. Zijn uitspraak belandde ietwat gecensureerd in de notulen als ‘In geouwehoer kun je niet wonen.’ Juist die versie is later gebruikt voor een campagne-poster, want hij beviel ook het PvdA-bestuur beter."
+      }
+    },
+    {
+      "text": "Hoe heet de uitbater van buurtcafé ’t Schaep met de vijf poten?",
+      "answers": [
+        "Karel de Leeuw",
+        "Kees de Boer",
+        "Kootje de Beer",
+        "Cor de Vries"
+      ],
+      "correct": {
+        "answers": [2],
+        "explanation": "De 8-delige tv-serie ’t Schaep met de 5 pooten werd aanvankelijk uitgezonden in 1969. De rol van Kootje werd toen gespeeld door Piet Römer. In de remake van 2006 wel de rol gespeeld door Pierre Bokma."
+      }
+    },
+    {
+      "text": "In Amsterdam-Noord ligt een straat met de naam Atatürk, naar de eerste president van de Republiek Turkije, Mustafa Kemal Aratürk. Wat heeft hij met Amsterdam te maken.",
+      "answers": [
+        "De straat is vernoemd naar Kamp Atatürk(1965-1978), een tijdelijk ‘woonoord’ voor Turkse gastarbeiders",
+        "Nederland was een van de eerste landen die de Republiek Turkije erkenden in 1923. Als eerbetoon aan de nieuwe , pro-westerse president kreeg hij een eigen straatnaam in Amsterdam.",
+        "Atatürk schonk de stad Amsterdam een enorme partij Turkse tapijten, vanwege de steun bij de revolutie. Als dank kreeg van de stad een eigen straatnaam.",
+        "De straat werd in 1934, toen de president van het Turkse parlement de naam Atatürk ( vader der Turken) kreeg, naar hem vernoemd."
+      ],
+      "correct": {
+        "answers": [0],
+        "explanation": "Het ‘woonoord’ bestond uit houten barakken waar zo’n 140 Turken woonden. De mannen sliepen er met vier man op een kamer. De meesten van hen werkten bij de scheepswerven van de NDSM, op loopafstand van het kamp. In de straat staat ook een monument voor de gastarbeiders. Vanaf de jaren zeventig kwam de gezinshereniging op gang en betrokken de gastarbeiders woningen met hun gezinnen, waardoor het kamp overbodig werd."
+      }
+    },
+    {
+      "text": "Wanneer was het eerste homohuwelijk in Amsterdam?",
+      "answers": ["1998", "2000", "2001", "2010"],
+      "correct": {
+        "answers": [2],
+        "explanation": "In de nacht van 31 maart op 1 april 2001 sloot burgermeester Cohen de eerste officiële homohuwelijken ter wereld. Het waren er meteen vier tegelijk: die nacht trouwden drie homoparen en één lesbisch stel onder grote belangstelling van de internationale pers. In 1998 werd het geregistreerd partnerschap opengesteld voor homoseksuele stellen."
+      }
+    },
+    {
+      "text": "Van de oudste huizen in Amsterdam hebben er twee nog een houten gevel. Welke zijn dat?",
+      "answers": [
+        "Het Houten Huys",
+        "Het Vergulde Wijnvat",
+        "Het Spijkervat",
+        "’t Aepjen"
+      ],
+      "correct": {
+        "answers": [0, 3],
+        "explanation": "Het Houten Huys staat op het Begijnhof(nr. 34) en werd gebouwd kort na 1528. Onderzoek heeft uitgewezen dat het gebruikte hout - deels nog aanwezig - in dat jaar is gekapt.’t Aepjen, Zeedijk 1, stamt uit 1550. De wanden zijn van steen maar de draagconstructie is nog geheel van hout. In het pand zit nu het café In ’t Aepjen, er boven bevinden zich kamers van het Barbizon hotel."
+      }
+    },
+    {
+      "text": "Op de foto van de linkerpagina (pagina 12) zien we een koepel. Op welk gebouw staat deze koepel?",
+      "image": true,
+      "answers": [
+        "Het voormalig warenhuis Metz & Co aan de Leidsestraat.",
+        "De Oosterkerk",
+        "De Koepelkerk aan het Singel",
+        "Het Koninklijk Paleis"
+      ],
+      "correct": {
+        "answers": [3],
+        "explanation": "Op de foto is het niet zichtbaar, maar de windvaan heeft de vorm een koggeschip, vroeger het symbool van Amsterdam De foto is gemaakt omstreeks 1899."
+      }
+    },
+    {
+      "text": "Welk woord komt niet voor in het devies van het Amsterdamse stadswapen?",
+      "answers": ["Moedig", "Vastberaden", "Barmhartig", "Heldhaftig"],
+      "correct": {
+        "answers": [0],
+        "explanation": "Over de datum waarop het devies werd toegerekend, bestaan ten minste twee visies: ofwel koningin Wilhelmina verleende Amsterdam op 29 maart 1947 het recht om het devies Heldhaftig, Vastberaden, Barmhartig aan het stadswapen toe te voegen vanwege de houding van de Amsterdamse bevolking tijdens de Duitse bezetting van 1940 - 1945 . De andere versie meldt dat dit gebeurde tijdens de eerste herdenking van de Februaristaking op 25 februari 1946."
+      }
+    },
+    {
+      "text": "Wie is de schrijver van Er groeit gras in de Weesperstraat?",
+      "answers": [
+        "Herman Hertzberger",
+        "Meyer Sluyser",
+        "Siegfried van Praag",
+        "Ischa Meijer"
+      ],
+      "correct": {
+        "answers": [1],
+        "explanation": "Meyer Sluyser, journalist en na de oorlog schrijver van een reeks boeken over de oude Jodenbuurt. Er groeit gras in de Weesperstraat verscheen in 1962. Toen groeide er inderdaad gras in de Weesperstraat, die sinds de deportaties tijdens de Duitse bezetting en de Hongerwinter van 1944-’45 totaal verkrot was geraakt. Nog datzelfde jaar begon de sloop en transformatie van een drie keer zo brede autoweg met kantoorflats erlangs."
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "Wat is de breedste gracht van de Amsterdamse grachtengordel?",
+      "answers": ["Singel", "Herengracht", "Keizersgracht", "Prinsengracht"],
+      "correct": {
+        "answers": [0],
+        "explanation": "Het Singel, in de vijftiende eeuw gegraven als vestinggracht, is ruim vijftig meter breed. De Keizersgracht is bijna vijftig meter, de Heren- en Prinsengracht blijven steken op ongeveer vijfenveertig."
+      }
+    },
+    {
+      "text": "Jan van der Heijden (1637-1712) is niet alleen bekend als de uitvinder van de brandspuit. Wat deed hij nog meer? Er zijn meer goede antwoorden.",
+      "answers": [
+        "Hij introduceerde de openbare straatverlichting in Amsterdam",
+        "Hij was schilder van stadsgezichten",
+        "Hij was zilversmid",
+        "Hij liet de eerste waterleiding aanleggen in de binnenstad."
+      ],
+      "correct": {
+        "answers": [0, 1],
+        "explanation": "Antwoord D is onjuist, want de waterleiding werd pas twee eeuwen later aangelegd. De nieuwe koperen lantaarns waren voorzien van vier ruitjes, waarvan er één kon worden geopend. Ze branden op een mengsel van raap- en lijnolie. De lantaarnopstekers moesten een eed afleggen waarin zij beloofden de instructies nauwgezet te volgen en de overgebleven olie terug te bezorgen. Replica’s staan op het Amstelveld en de Magere Brug."
+      }
+    },
+    {
+      "text": "Wat is het hoogste gebouw van Amsterdam?",
+      "answers": [
+        "Crystal Toren bij het station Sloterdijk",
+        "Rembrandttoren op de Omval",
+        "Mondriaantoren ook op de Omval",
+        "Het hoofdkantoor van de ABN Amro aan de Zuidas"
+      ],
+      "correct": {
+        "answers": [1],
+        "explanation": "De Rembrandttoren is 135 meter hoog. De Mondriaantoren is 123 meter, het ABN Amro hoofdkantoor 105 meter en de Crystal Toren is 95 meter. Ter vergelijking: de Westerkerk is 85 meter hoog."
+      }
+    },
+    {
+      "text": "‘Ik zal niet opsommen wat men allemaal niet vond deugen, dat was doodeenvoudig alles’<br><br>Schrijver en vertaler August Willemsen (1936-2007) schreef dit over de buurt waar hij in 1971 kwam te wonen. Welke buurt was dat?",
+      "answers": [
+        "Vogelenbuurt",
+        "Staatsliedenbuurt",
+        "Dapperbuurt",
+        "Bijlmermeer"
+      ],
+      "correct": {
+        "answers": [3],
+        "explanation": "Willemsen had het tot 1990 zeer naar zijn zin in de Bijlmer. In dat jaar maakte hij een ongelukkige val na een bezoek aan de slijter, waaraan hij een blijvende handicap aan zou over houden (maar waar hij wel een prachtig boek over schreef: De val). Het citaat hierboven komt tot Het hoge woord (1994)."
+      }
+    },
+    {
+      "text": "Johan Cruijff, waarschijnlijk de beroemdste Nederlander ter wereld, groeide op in Betondorp. In welke straat woonde hij als kind?",
+      "answers": [
+        "Zuivelplein 22",
+        "Zaaiersweg 23",
+        "Akkerstraat 32",
+        "Veeteeltstraat 33"
+      ],
+      "correct": {
+        "answers": [2],
+        "explanation": "Cruijff werd op 25 april 1947 geboren in het Burgerziekenhuis in de Linnaeusstraat. Op zijn twaalfde verhuisde het gezin naar de Weidestraat, ook in Betondorp. Hij ging op school op de Zaaiersweg."
+      }
+    },
+    {
+      "text": "‘De stad was toen een blonde kroeg, een toren van extase, en midden in het park bestal de zon de tijd van de dag, we wisten niet meer wie we waren.’<br><br>Dit is een fragment uit een gedicht van Menno Wigman, die hierin de magie bezingt van een Amsterdams park waar hij veel ‘verdoofde nachten’ doorbracht. Over welk park gaat dit gedicht?",
+      "answers": ["Vondelpark", "Oosterpark", "Sarphatipark", "Westerpark"],
+      "correct": {
+        "answers": [0],
+        "explanation": "In 2012 werd Menno Wigman voor twee jaar stadsdichter van Amsterdam. Een strofe uit zijn eerste gedicht in die functie:‘Het sterft van de meisjes, mooi en slim en strak, die eeuwig als de Amstel naar de stad toe trekken, koppig is hun stroom en steil hun droom van hartstocht en een beter bed. Zo ruikt elk uur naar seks en intellect.’"
+      }
+    },
+    {
+      "text": "Wat is geen Amsterdammertje?",
+      "answers": [
+        "Een paaltje dat verkeer van de stoep moet weren",
+        "Een koekje met amandelspijs",
+        "Een merk ossenworst",
+        "Een vaasje bier"
+      ],
+      "correct": {
+        "answers": [0, 1, 2, 3],
+        "explanation": "Het zijn allemaal Amsterdammertjes. En natuurlijk is ook een jongetje dat in Amsterdam is geboren een Amsterdammertje."
+      }
+    },
+    {
+      "text": "Is dit aardewerken object uit de 18e eeuw een",
+      "answers": ["Kuikensteen", "Eiertegel", "Bordspel", "Reken- of teltegel"],
+      "image": true,
+      "correct": {
+        "answers": [0],
+        "explanation": "De drinkbak voor de kuikens van kippen is voorzien van kleine holletjes waaruit ze kunnen drinken. In een grote drinkbak zouden de kuikens kunnen verdrinken. Dit exemplaar (van 18,5 x 18,5 cm) is opgegraven bij de Bloemgracht."
+      }
+    },
+    {
+      "text": "In welke buurt behaalde de Nationaal-Socialistische Beweging in 1935 het hoogste aantal stemmen?",
+      "answers": [
+        "Museumbuurt",
+        "Kinkerbuurt",
+        "Tuindorp Oostzaan",
+        "Spaarndammerbuurt"
+      ],
+      "correct": {
+        "answers": [0],
+        "explanation": "In tegenstelling tot uiterst rechtse bewegingen als de centrumpartij, de Centrum-Democraten en de Lijst Pim Fortuyn, die allereerst inspeelden op de angst voor vreemdelingen,  scoorde de NSB vooral in de rijkere buurten, waarin vooral het pleidooi voor rust, orde en een sterk gezag de kiezers aansprak."
+      }
+    },
+    {
+      "text": "Een ui die is ingelegd in azijn en specerijen noemen we een Amsterdamse ui. Hoe komt deze ui aan zijn gelige kleur?",
+      "answers": [
+        "Kerrie",
+        "Kurkuma (of geelwortel)",
+        "Citroenmelisse",
+        "Saffraan"
+      ],
+      "correct": {
+        "answers": [3],
+        "explanation": "Het Amsterdams zuur gaat terug op een eeuwenoude joodse traditie van het in azijn inleggen van onder andere ui en augurk, waardoor deze ook zonder koelkast lang bewaard kon worden. De zuurwaren werden meestal in een kraam op straat verkocht. Voor de Amsterdamse ui worden doorgaans kleine ronde uitjes, zilveruitjes of sjalotjes gebruikt. Het azijn uit de pot is gewoon te gebruiken in dressings, niet weggooien dus!"
+      }
+    },
+    {
+      "text": "Wie sprak de woorden: ‘Ik hou erg van de natuur, maar ik moet er wel iets te drinken bij hebben.’",
+      "answers": [
+        "Willem Fredrik Hermans",
+        "Willem Wittkampf",
+        "Willem Kloos",
+        "Willem van Toorn"
+      ],
+      "correct": {
+        "answers": [2],
+        "explanation": "De melancholische dichter Willem Kloos (1859-1938), coryfee van de beweging van Tachtig. Parool-redacteur lustte ook graag een slok, maar deze wisecrack is niet van hem."
+      }
+    },
+    {
+      "text": "Sinds 1927 is Herengracht 502 in gebruik als woning van de burgermeester. Welke burgermeester heeft niet in de ambtswoning gewoond?",
+      "answers": [
+        "Willem de Vlugt",
+        "Arnold Jan dilly",
+        "Gijs van Hall",
+        "Wim Polak"
+      ],
+      "correct": {
+        "answers": [2],
+        "explanation": "Gijs van Hall bleef in zijn woning in de Beethovenstraat wonen vanwege zijn doofstomme dochter. Herengracht 502 is in 1926 geschonken als ambtswoning door C.J.K. van Aalst, de president-directeur van de Nederlandse Handelsmaatschappij."
+      }
+    },
+    {
+      "text": "In het Rasphuis aan de Heiligeweg (toen het voormalige Clarissenklooster, nu de Kalvertoren) werden van 1596 tot 1782 gevangenen aan het werk gezet. Waaraan dankt het Rasphuis zijn naam?",
+      "answers": [
+        "Aan de voormalige bewoonsters van het klooster waarin de strafstelling werd ondergebracht, deze clarissen hadden een raspend, ruw stemgeluid.",
+        "Aan het werk dat de gevangenen moesten verrichten.",
+        "De ‘kastelein’ ofwel beheerder van het complex heette Jan Rap",
+        "Naar het aangrenzende deel van het voormalige kloostercomplex waarin paarden werden gestald om te worden behandeld aan rasp, een vorm van huidonsteking."
+      ],
+      "correct": {
+        "answers": [1],
+        "explanation": "Het Rasp- of Tuchthuis was bestemd tot ‘huys daar men alle vagebonden, quaetdoenders, rabauwen ende dyergelijcke ten casteyementen zoude mogen legghen’. De eerste gevangenen moesten stoffen weven, maar toen het aantal volwassenen, misdadigers toenam, werd de tewerkstelling fysiek verzwaard. De gevangenen moesten hardhout uit Brazilië met behulp van een raspzaag tot poeder raspen. Dit poeder werd gebruikt in de textielindustrie als basis van een pigment. Na voltooiing van het Nieuwe Werkhuis (het huidige Dr. Sarphatihuis) werden de gevangenen overgebracht naar de Roetersstraat."
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    },
+    {
+      "text": "",
+      "answers": ["", "", "", ""],
+      "correct": {
+        "answers": [],
+        "explanation": ""
+      }
+    }
+  ]
+}
